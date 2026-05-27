@@ -244,7 +244,7 @@ export default function SistemaControleBoletos() {
           {/* Cards */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-8">
             <div className="bg-white/5 border border-white/10 rounded-[28px] p-6">
-              <p className="text-gray-400 text-sm uppercase tracking-widest">Total Receber</p>
+              <p className="text-gray-400 text-sm uppercase tracking-widest">Total Pagar</p>
               <h2 className="text-4xl font-black mt-3">{totalReceber}</h2>
             </div>
             <div className="bg-white/5 border border-white/10 rounded-[28px] p-6">
